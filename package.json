@@ -1,0 +1,22 @@
+{ "name": "minecraft_wiki_hints_and_additions",
+  "version": "0.1.0",
+  "description": "Stuff I want my browser to reminded me about when reading the Minecraft Wiki. (I can't contribute there because their registration form is broken.)",
+  "keywords": [],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/minecraft_wiki_hints_and_additions/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/minecraft_wiki_hints_and_additions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/minecraft_wiki_hints_and_additions/issues"
+  },
+  "contributors": [],
+
+  "private": true, "license": "GFDL-1.3-or-later",
+
+
+
+  "engines": { "npm": ">=7.0.0", "node": ">=16.0.0" }
+}
