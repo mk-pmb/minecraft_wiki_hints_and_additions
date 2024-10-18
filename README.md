@@ -10,7 +10,8 @@ Stuff I want my browser to reminded me about when reading the Minecraft Wiki.
 
 Spoiler: If the "Register" button in Minecraft wiki's registration form
 is disabled (unclickable), it means ReCaptcha hates you. No challenge was
-displayed, nor any button to even try and solve a challenge. `¯\_(ツ)_/¯`
+displayed, nor any button to even try and solve a challenge.
+¯&#92;&#95;(ツ)&#95;/¯
 
 
 
